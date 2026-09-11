@@ -1,0 +1,14 @@
+C:\Users\Student\OOP - Pronin\lab1vN\bin\Debug\net9.0\lab1vN.exe
+C:\Users\Student\OOP - Pronin\lab1vN\bin\Debug\net9.0\lab1vN.deps.json
+C:\Users\Student\OOP - Pronin\lab1vN\bin\Debug\net9.0\lab1vN.runtimeconfig.json
+C:\Users\Student\OOP - Pronin\lab1vN\bin\Debug\net9.0\lab1vN.dll
+C:\Users\Student\OOP - Pronin\lab1vN\bin\Debug\net9.0\lab1vN.pdb
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.AssemblyInfoInputs.cache
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.AssemblyInfo.cs
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.csproj.CoreCompileInputs.cache
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.dll
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\refint\lab1vN.dll
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.pdb
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\lab1vN.genruntimeconfig.cache
+C:\Users\Student\OOP - Pronin\lab1vN\obj\Debug\net9.0\ref\lab1vN.dll
