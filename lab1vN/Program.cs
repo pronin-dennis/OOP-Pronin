@@ -5,7 +5,6 @@
 
     public double Temperature { get; set; }
 
-    // Властивості для доступу до приватних полів
     public string City
     {
         get { return city; }
