@@ -1,0 +1,14 @@
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\bin\Debug\net10.0\lab6vN.exe
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\bin\Debug\net10.0\lab6vN.deps.json
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\bin\Debug\net10.0\lab6vN.runtimeconfig.json
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\bin\Debug\net10.0\lab6vN.dll
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\bin\Debug\net10.0\lab6vN.pdb
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.GeneratedMSBuildEditorConfig.editorconfig
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.AssemblyInfoInputs.cache
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.AssemblyInfo.cs
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.csproj.CoreCompileInputs.cache
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.dll
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\refint\lab6vN.dll
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.pdb
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\lab6vN.genruntimeconfig.cache
+d:\vs code projects\OOP-Pronin_Denis\lab6vN\obj\Debug\net10.0\ref\lab6vN.dll
