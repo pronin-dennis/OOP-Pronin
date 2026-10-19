@@ -1,0 +1,15 @@
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\bin\Debug\net10.0\lab8v19.exe
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\bin\Debug\net10.0\lab8v19.deps.json
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\bin\Debug\net10.0\lab8v19.runtimeconfig.json
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\bin\Debug\net10.0\lab8v19.dll
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\bin\Debug\net10.0\lab8v19.pdb
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.AssemblyInfoInputs.cache
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.AssemblyInfo.cs
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.csproj.CoreCompileInputs.cache
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.sourcelink.json
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.dll
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\refint\lab8v19.dll
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.pdb
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\lab8v19.genruntimeconfig.cache
+D:\vs code projects\OOP-Pronin_Denis\lab8v19\obj\Debug\net10.0\ref\lab8v19.dll
